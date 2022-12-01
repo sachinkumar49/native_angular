@@ -1,0 +1,20 @@
+{
+  "name": "native_angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinkumar49/native_angular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinkumar49/native_angular/issues"
+  },
+  "homepage": "https://github.com/sachinkumar49/native_angular#readme"
+}
